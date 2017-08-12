@@ -1,0 +1,30 @@
+{
+  "Alicia_solid.pmx": {
+    "path": "Alicia/Alicia_solid.pmx",
+    "motions": {
+      "モーションなし": "",
+      "2分ループステップ1": "Alicia/motion/step1.vmd",
+      "2分ループステップ5": "Alicia/motion/step5.vmd",
+      "2分ループステップ7": "Alicia/motion/step7.vmd",
+      "2分ループステップ8": "Alicia/motion/step8.vmd",
+      "2分ループステップ10": "Alicia/motion/step10.vmd",
+      "2分ループステップ17": "Alicia/motion/step17.vmd",
+      "2分ループステップ19": "Alicia/motion/step19.vmd",
+      "2分ループステップ20": "Alicia/motion/step20.vmd",
+      "2分ループステップ21": "Alicia/motion/step21.vmd",
+      "2分ループステップ22": "Alicia/motion/step22.vmd",
+      "2分ループステップ23": "Alicia/motion/step23.vmd",
+      "2分ループステップ28": "Alicia/motion/step28.vmd",
+      "2分ループステップ29": "Alicia/motion/step29.vmd",
+      "2分ループステップ31": "Alicia/motion/step31.vmd",
+      "2分ループステップ36": "Alicia/motion/step36.vmd",
+      "2分ループステップ37": "Alicia/motion/step37.vmd"
+    }
+  },
+  "Alicia_blade.pmx": {
+    "path": "Alicia/Alicia_blade.pmx",
+    "motions": {
+      "モーションなし": ""
+    }
+  }
+}
