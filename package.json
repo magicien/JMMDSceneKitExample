@@ -36,7 +36,7 @@
     "gulp-uglify": "^3.0.0",
     "gulp-util": "^3.0.8",
     "gulp-watch": "^4.3.11",
-    "jmmdscenekit": "0.0.6",
+    "jmmdscenekit": "0.0.7",
     "jscenekit": "^0.2.18",
     "mocha": "^3.5.0",
     "mocha-sinon": "^2.0.0",
