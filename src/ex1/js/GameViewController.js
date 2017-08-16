@@ -6,6 +6,7 @@ import {
   SCNNode,
   SCNScene,
   SCNVector3,
+  SCNVector4,
   SKColor
 } from 'jscenekit'
 import {
@@ -140,8 +141,10 @@ export default class GameViewController {
       // create and add a light to the scene
       const lightNode = new SCNNode()
       lightNode.light = new SCNLight()
-      lightNode.light.type = SCNLight.LightType.omni
-      lightNode.position = new SCNVector3(0, 10, 10)
+      lightNode.light.type = SCNLight.LightType.directional
+      lightNode.light.castsShadow = true
+      lightNode.position = new SCNVector3(0, 100, 0)
+      lightNode.rotation = new SCNVector4(1, 0, 0, Math.PI * 0.5)
       scene.rootNode.addChildNode(lightNode)
 
       // create and add an ambient light to the scene

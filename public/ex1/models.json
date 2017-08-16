@@ -1,5 +1,5 @@
 {
-  "Alicia_solid.pmx": {
+  "ニコニ立体ちゃん（アリシア・ソリッド）": {
     "path": "Alicia/Alicia_solid.pmx",
     "motions": {
       "モーションなし": "",
@@ -21,8 +21,14 @@
       "2分ループステップ37": "Alicia/motion/step37.vmd"
     }
   },
-  "Alicia_blade.pmx": {
+  "ビーム彫刻刀": {
     "path": "Alicia/Alicia_blade.pmx",
+    "motions": {
+      "モーションなし": ""
+    }
+  },
+  "プロ生ちゃん": {
+    "path": "Pronama-chan_Normal/プロ生ちゃん.pmx",
     "motions": {
       "モーションなし": ""
     }
